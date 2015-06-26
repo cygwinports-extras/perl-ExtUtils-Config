@@ -2,8 +2,10 @@ CPAN_AUTHOR=leont
 inherit perl
 
 NAME="perl-ExtUtils-Config"
-VERSION=0.007
+VERSION=0.008
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Wrapper for Perl configuration data"
 DESCRIPTION="ExtUtils::Config is an abstraction around Perl's %Config hash."
+
+ARCH=noarch
